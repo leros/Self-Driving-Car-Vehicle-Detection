@@ -1,5 +1,7 @@
+## Advanced Lane Finding
+[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-**Vehicle Detection Project**
+In this project, I write a software pipeline to detect vehicles in a video (start with the test_video.mp4 and later implement on full project_video.mp4), 
 
 The goals / steps of this project are the following:
 
@@ -22,9 +24,9 @@ The goals / steps of this project are the following:
 [video2]: ./project_video_car_lane_detected.mp4
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/513/view) Points
-### Here I will consider the rubric points individually and describe how I addressed each point in my implementation.  
+Here I will consider the rubric points individually and describe how I addressed each point in my implementation.  
 
-### All codes are in vehicle_detection.ipynb.
+Note: All codes are in `vehicle_detection.ipynb`.
 
 ---
 
